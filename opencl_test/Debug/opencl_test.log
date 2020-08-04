@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\prog\opencl\opencl_work\tmp\opencl_test\main.cpp(63,24): warning C4018:  “<”: 有符号/无符号不匹配
+D:\prog\opencl\opencl_work\tmp\opencl_test\main.cpp(108,42): warning C4477:  “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“cl_ulong”
+D:\prog\opencl\opencl_work\tmp\opencl_test\main.cpp(108,42): message :  请考虑在格式字符串中使用“%lld”
+D:\prog\opencl\opencl_work\tmp\opencl_test\main.cpp(108,42): message :  请考虑在格式字符串中使用“%I64d”
+D:\prog\opencl\opencl_work\tmp\opencl_test\main.cpp(109,45): warning C4477:  “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“cl_ulong”
+D:\prog\opencl\opencl_work\tmp\opencl_test\main.cpp(109,45): message :  请考虑在格式字符串中使用“%lld”
+D:\prog\opencl\opencl_work\tmp\opencl_test\main.cpp(109,45): message :  请考虑在格式字符串中使用“%I64d”
+D:\prog\opencl\opencl_work\tmp\opencl_test\main.cpp(139,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\prog\opencl\opencl_work\tmp\opencl_test\main.cpp(210,9): warning C4101:  “errNum”: 未引用的局部变量
+  opencl_test.vcxproj -> D:\prog\opencl\opencl_work\tmp\opencl_test2\opencl_test2\Debug\opencl_test.exe
